@@ -1,0 +1,6 @@
+@workDashboard_HostAddress = http://localhost:5069
+
+GET {{workDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
